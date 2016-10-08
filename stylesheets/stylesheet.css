@@ -54,11 +54,11 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
+  color: #000;
   text-align: center;
-  background-color: #159957;
+  background-color: #f90;
   background-image: url(http://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/02/p41.jpg);}
-    
+ */edited background image/*   
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 5rem 6rem; } }
