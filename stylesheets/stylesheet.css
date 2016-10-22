@@ -44,6 +44,7 @@ a {
     padding: 0.75rem;
     font-size: 0.9rem; }
     .btn + .btn {      margin-top: 1rem;
+
       margin-left: 0; }
   
 .navbar > .navbar-fixed-top{
@@ -67,6 +68,8 @@ a {
   padding:0px;
   color: #000;
   text-align: center;
+  }
+  .jumbotron{
   background-color: #f90;
   background-image: url(http://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/02/p41.jpg);
   background-repeat: no-repeat;
