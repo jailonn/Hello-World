@@ -46,6 +46,7 @@ a {
     .btn + .btn {      margin-top: 1rem;
 
       margin-left: 0; }
+
   
 .navbar > .navbar-fixed-top{
     margin:0px;
@@ -68,8 +69,10 @@ a {
   padding:0px;
   color: #000;
   text-align: center;
-  }
-  .jumbotron{
+  background: linear-gradient(-90deg, purple, pink);
+}
+  
+.jumbotron{
   background-color: #f90;
   background-image: url(http://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/02/p41.jpg);
   background-repeat: no-repeat;
