@@ -33,7 +33,7 @@ a {
 
 @media screen and (min-width: 64em) {
 .  .btn {
-    padding: 0.75rem 1rem; } }
+h    padding: 0.75rem 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) {  .btn {
    padding: 0.6rem 0.9rem;
     font-size: 0.9rem; } }
@@ -59,17 +59,19 @@ a {
   background-color:#069;
 }
 
-.navbar-inverse .navbar-nav > li > a{
+.navbar-inverse .navbar-nav > li > a:active{
   color: #f00;
 }
 
 
 .page-header {
-  margin:0px
-  padding:0;
+  
 }
 
+
 .page-header {
+ margin:0px
+  padding:0px;
   color: #000;
   text-align: center;
   background-color: #f90;
