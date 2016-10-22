@@ -35,7 +35,7 @@ a {
 .  .btn {
     padding: 0.75rem 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) {  .btn {
-a   padding: 0.6rem 0.9rem;
+   padding: 0.6rem 0.9rem;
     font-size: 0.9rem; } }
 
 @media screen and (max-width: 42em) {
@@ -47,7 +47,8 @@ a   padding: 0.6rem 0.9rem;
     .btn + .btn {
       margin-top: 1rem;
       margin-left: 0; }
-  .navbar > .navbar-fixed-top{
+  
+.navbar > .navbar-fixed-top{
     margin:0px;
     padding:0;
 }
@@ -78,7 +79,7 @@ a   padding: 0.6rem 0.9rem;
 }
 
 
- */edited background image/*   
+ /*edited background image*/   
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 5rem 6rem; } }
