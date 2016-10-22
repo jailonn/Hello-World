@@ -35,8 +35,7 @@ a {
 @media screen and (min-width: 64em) {
   .btn {
     padding: 0.75rem 1rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .btn {
+@media screen and (min-width: 42em) and (max-width: 64em) {  .btn {
 a   padding: 0.6rem 0.9rem;
     font-size: 0.9rem; } }
 
@@ -48,7 +47,8 @@ a   padding: 0.6rem 0.9rem;
     font-size: 0.9rem; }
     .btn + .btn {
       margin-top: 1rem;
-      margin-left: 0; } }navbar > navbar-fixed-top{
+      margin-left: 0; }
+  .navbar > .navbar-fixed-top{
     margin:0px;
     padding:0;
 }
